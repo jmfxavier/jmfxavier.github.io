@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /bogus/
 title: "Bogus title by me"
 author_profile: true
