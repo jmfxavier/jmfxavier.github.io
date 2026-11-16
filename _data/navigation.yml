@@ -34,3 +34,7 @@ main:
 
   - title: "Bogus"
     url: /bogus/
+
+  - title: "Misc"
+    url: /miscjx/
+  
