@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /misc/
+permalink: /students/
 title: "Students"
 author_profile: true
 ---
