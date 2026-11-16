@@ -5,4 +5,4 @@ title: "Bogus title by me"
 author_profile: true
 ---
 
-This is a sample bogus text.
+This is a sample bogus text. Like this one also.
