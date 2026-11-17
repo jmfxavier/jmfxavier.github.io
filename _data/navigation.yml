@@ -35,6 +35,6 @@ main:
   - title: "Bogus"
     url: /bogus/
 
-  - title: "Students"
-    url: /students/
+  - title: "PhD students"
+    url: /phdstudents/
   

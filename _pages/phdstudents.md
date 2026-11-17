@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /students/
-title: "Students"
+permalink: /phdstudents/
+title: "PhD students"
 author_profile: true
 ---
 
