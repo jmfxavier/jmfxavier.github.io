@@ -21,7 +21,7 @@ author_profile: true
 
 7. José Rodrigues. **3D pose estimation for bin-picking: A data-driven approach using multi-light images.** Carnegie Mellon University and Instituto Superior Técnico, 2018. Co-advised with Takeo Kanade (CMU) and Pedro Aguiar (IST).
 
-8. Brian Swenson.  **Myopic Best-Response Learning in Large-Scale Games.** Carnegie Mellon University and Instituto Superior Técnico, 2017. Co-advised with Soummya Kar (CMU).
+8. Brian Swenson.  **Myopic best-response learning in large-scale games.** Carnegie Mellon University and Instituto Superior Técnico, 2017. Co-advised with Soummya Kar (CMU).
 
 9. Augusto Santos. **Bi-virus epidemics over large-scale networks: emergent dynamics and qualitative analysis.** Carnegie Mellon University and Instituto Superior Técnico, 2014. Co-advised with José Manuel Fonseca de Moura (CMU).
 
