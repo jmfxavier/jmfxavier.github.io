@@ -7,8 +7,6 @@ author_profile: true
 
 
 
-# PhD students
-
 1. Pedro Valdeira.  **Communication and data eﬃcient algorithms for vertical federated learning.** Carnegie Mellon University and Instituto Superior Técnico, 2025. Co-advised with Yuejie Chi (CMU) and Cláudia Soares (Nova-FCT).
 
 2. João Domingos.  **Statistical signal processing: Robustness, outliers and temporal correlation. Applications in target localization, linear regression, mean estimation, Procrustes alignment, and distributed detection.** Instituto Superior Técnico. 2025.
