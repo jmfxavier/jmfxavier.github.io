@@ -9,7 +9,7 @@ author_profile: true
 
 1. Pedro Valdeira.  **Communication and data eﬃcient algorithms for vertical federated learning.** Carnegie Mellon University and Instituto Superior Técnico, 2025. Co-advised with Yuejie Chi (CMU) and Cláudia Soares (Nova-FCT).
 
-2. João Domingos.  **Statistical signal processing: Robustness, outliers and temporal correlation. Applications in target localization, linear regression, mean estimation, Procrustes alignment, and distributed detection.** Instituto Superior Técnico. 2025.
+2. João Domingos.  **Statistical signal processing: Robustness, outliers and temporal correlation. Applications in target localization, linear regression, mean estimation, Procrustes alignment, and distributed detection.** Instituto Superior Técnico, 2025.
 
 3. Francisco Andrade. **Distributed Banach-Picard iteration with applications to inference problems.** Instituto Superior Técnico, 2022. Co-advised with Mário Figueiredo (IST). 
 
