@@ -42,3 +42,13 @@ author_profile: true
 
 - D. Cardoso, B. Li, Y. Chi, and J. Xavier, [Harvesting curvatures for communication-efficient distributed optimization](https://ieeexplore.ieee.org/abstract/document/10051851), *Asilomar Conference on Signals, Systems, and Computers*
 
+
+### 2021 
+
+- M. Madeira, R. Negrinho, J. Xavier, and P. Aguiar, [COCO denoiser: Using co-coercivity for variance reduction in stochastic convex optimization](https://opt-ml.org/papers/2021/paper11.pdf), *OPT2021: 13th Annual Workshop on Optimization for Machine Learning*
+
+
+
+
+
+
