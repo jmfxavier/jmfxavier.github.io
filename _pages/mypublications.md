@@ -62,3 +62,10 @@ author_profile: true
 
 - I. Almeida and J. Xavier, [DJAM: Distributed Jacobi asynchronous method for learning personal models](https://ieeexplore.ieee.org/abstract/document/8421017), *IEEE Signal Processing Letters*
 
+### 2017
+
+- B. Swenson, S. Kar, and J. Xavier, [Single sample fictitious play](https://ieeexplore.ieee.org/abstract/document/7935409), *IEEE Transactions on Automatic Control*
+
+- B. Swenson, S. Kar, J. Xavier, and D. Leslie, [Robustness properties in fictitious-play-type algorithms](https://epubs.siam.org/doi/abs/10.1137/16M1093227), *SIAM Journal on Control and Optimization*
+
+- P. Guerreiro and J. Xavier, [Distributed learning with time correlated information](https://ieeexplore.ieee.org/abstract/document/8031319), *IEEE Signal Processing Letters*
