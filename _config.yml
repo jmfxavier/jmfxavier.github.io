@@ -27,8 +27,8 @@ author:
   name             : "João Xavier"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Lisbon, Portugal"
-  employer         : [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/)
+  location         : #"Lisbon, Portugal"
+  employer         : # "Instituto Superior Técnico"
   uri              : # URL
   email            : # "none@example.org" 
 
