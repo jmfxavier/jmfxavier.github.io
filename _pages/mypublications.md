@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2026
 
-- R. Ferreira, J. Xavier, and C. Soares, [CLASP: Online learning algorithms for convex losses and squared penalties](https://proceedings.mlr.press/v306/ferreira26a.html), *International Conference on Machine Learning*
+- R. Ferreira, J. Xavier, and C. Soares, [CLASP: Online learning algorithms for convex losses and squared penalties](https://proceedings.mlr.press/v306/ferreira26a.html), *International Conference on Machine Learning (ICML)*
 
 - P. Valdeira, Y. Chi, C. Soares, and J. Xavier, [A multi-token coordinate descent method for semi-decentralized vertical federated learning](https://ieeexplore.ieee.org/abstract/document/11346542), *IEEE Transactions on Signal Processing*
 
@@ -26,3 +26,7 @@ author_profile: true
 ### 2024
 
 - J. Domingos and J. Xavier, [Robust Target Localization in 2D: A Value-at-Risk Approach](https://ieeexplore.ieee.org/abstract/document/10538999), *IEEE Transactions on Signal Processing*
+
+### 2023
+
+- F. Andrade, M. Figueiredo, and J. Xavier, [Distributed Banach-Picard iteration: Application to distributed parameter estimation and PCA](https://ieeexplore.ieee.org/abstract/document/10032249), *IEEE Transactions on Signal Processing*
