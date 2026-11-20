@@ -52,5 +52,9 @@ author_profile: true
 
 - L. Balthazar, J. Xavier, and B. Sinopoli, [Distributed linear estimation via a roaming token](https://ieeexplore.ieee.org/abstract/document/8954763), *IEEE Transactions on Signal Processing*
 
-- D. Jakovetić, D. Bajović, J. Xavier, and J. M. F. Moura  [Primal–dual methods for large-scale and distributed convex optimization and data analytics](https://ieeexplore.ieee.org/abstract/document/9151295), *Proceedings of the IEEE--Special Issue on Optimization for Data-Driven Learning and Control*
+- D. Jakovetić, D. Bajović, J. Xavier, and J. M. F. Moura  [Primal–dual methods for large-scale and distributed convex optimization and data analytics](https://ieeexplore.ieee.org/abstract/document/9151295), *Special Issue on Optimization for Data-Driven Learning and Control---Proceedings of the IEEE*
+
+### 2019
+
+- A. Simões and J. Xavier, [FADE: Fast and asymptotically efficient distributed estimator for dynamic networks](https://ieeexplore.ieee.org/abstract/document/8651342), *IEEE Transactions on Signal Processing*
 
