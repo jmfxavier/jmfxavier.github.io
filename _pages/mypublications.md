@@ -48,7 +48,9 @@ author_profile: true
 - M. Madeira, R. Negrinho, J. Xavier, and P. Aguiar, [COCO denoiser: Using co-coercivity for variance reduction in stochastic convex optimization](https://opt-ml.org/papers/2021/paper11.pdf), *OPT2021: 13th Annual Workshop on Optimization for Machine Learning*
 
 
+### 2020
 
+- L. Balthazar, J. Xavier, and B. Sinopoli, [Distributed linear estimation via a roaming token](https://ieeexplore.ieee.org/abstract/document/8954763), *IEEE Transactions on Signal Processing*
 
-
+- D. Jakovetić, D. Bajović, J. Xavier, and J. M. F. Moura  [Primal–dual methods for large-scale and distributed convex optimization and data analytics](https://ieeexplore.ieee.org/abstract/document/9151295), *Proceedings of the IEEE--Special Issue on Optimization for Data-Driven Learning and Control*
 
