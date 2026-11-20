@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Lisbon, Portugal"
-  employer         : "https://tecnico.ulisboa.pt/en/"
+  employer         : [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/)
   uri              : # URL
   email            : # "none@example.org" 
 
