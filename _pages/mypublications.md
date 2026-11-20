@@ -5,7 +5,7 @@ title: "List of my publications"
 author_profile: true
 ---
 
-# 2026
+## 2026
 
 - R. Ferreira, J. Xavier, and C. Soares, [CLASP: Online learning algorithms for convex losses and squared penalties](https://proceedings.mlr.press/v306/ferreira26a.html), ICML.
 
@@ -13,7 +13,7 @@ author_profile: true
 
 
 
-# 2025
+## 2025
 
 - Some other pub.
 
