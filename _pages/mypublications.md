@@ -30,3 +30,15 @@ author_profile: true
 ### 2023
 
 - F. Andrade, M. Figueiredo, and J. Xavier, [Distributed Banach-Picard iteration: Application to distributed parameter estimation and PCA](https://ieeexplore.ieee.org/abstract/document/10032249), *IEEE Transactions on Signal Processing*
+
+
+### 2022
+
+- F. Andrade, M. Figueiredo, and J. Xavier, [Distributed Banach–Picard iteration for locally contractive maps](https://ieeexplore.ieee.org/abstract/document/9718159), *IEEE Transactions on Automatic Control*
+
+- J. Domingos, C. Soares, and J. Xavier, [Robust localization with bounded noise: Creating a superset of the possible target positions via linear-fractional representations](https://ieeexplore.ieee.org/abstract/document/9805700), *IEEE Transactions on Signal Processing*
+
+- P. Valdeira, Y. Chi, C. Soares, and J. Xavier, [A Multi-Token Coordinate Descent Method for Vertical Federated Learning](https://openreview.net/pdf?id=z5ZmWVh0HCh), *Workshop on Federated Learning: Recent Advances and New Challenges, in Conjunction with NeurIPS 2022 (FL-NeurIPS’22)*
+
+- D. Cardoso, B. Li, Y. Chi, and J. Xavier, [Harvesting curvatures for communication-efficient distributed optimization](https://ieeexplore.ieee.org/abstract/document/10051851), *Asilomar Conference on Signals, Systems, and Computers*
+
