@@ -23,12 +23,12 @@ repository               : "jmfxavier/jmfxavier.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   name             : "João Xavier"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Lisbon, Portugal"
-  employer         : "Instituto Superior Técnico"
+  employer         : "https://tecnico.ulisboa.pt/en/"
   uri              : # URL
   email            : # "none@example.org" 
 
