@@ -58,3 +58,7 @@ author_profile: true
 
 - A. Simões and J. Xavier, [FADE: Fast and asymptotically efficient distributed estimator for dynamic networks](https://ieeexplore.ieee.org/abstract/document/8651342), *IEEE Transactions on Signal Processing*
 
+### 2018
+
+- I. Almeida and J. Xavier, [DJAM: Distributed Jacobi asynchronous method for learning personal models](https://ieeexplore.ieee.org/abstract/document/8421017), *IEEE Signal Processing Letters*
+
